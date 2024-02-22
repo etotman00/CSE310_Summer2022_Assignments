@@ -1,0 +1,3 @@
+﻿  hash_totmanchain.c
+C:\Users\totel\source\repos\Homework4Part2(1)\Homework4Part2(1)\hash_totmanchain.c(162,11): warning C4477: 'scanf' : format string '%f' requires an argument of type 'float *', but variadic argument 1 has type 'int *'
+  Homework4Part2(1).vcxproj -> C:\Users\totel\source\repos\Homework4Part2(1)\Debug\Homework4Part2(1).exe
