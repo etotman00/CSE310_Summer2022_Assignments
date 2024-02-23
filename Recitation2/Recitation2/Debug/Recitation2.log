@@ -1,0 +1,5 @@
+﻿  1217927594_recitation_week2.c
+C:\Users\totel\source\repos\Recitation2\Recitation2\1217927594_recitation_week2.c(18,6): warning C4101: 'i': unreferenced local variable
+C:\Users\totel\source\repos\Recitation2\Recitation2\1217927594_recitation_week2.c(111,24): warning C4020: 'mergeSort': too many actual parameters
+C:\Users\totel\source\repos\Recitation2\Recitation2\1217927594_recitation_week2.c(118,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Recitation2.vcxproj -> C:\Users\totel\source\repos\Recitation2\Debug\Recitation2.exe
